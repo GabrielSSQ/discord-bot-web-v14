@@ -5,6 +5,10 @@
 - 🎨 **Modern Arayüz** - Responsive ve kullanıcı dostu tasarım
 - ⚡ **Yüksek Performans** - Optimize edilmiş kod yapısı
 
+İletişim
+discord; gabriel.btw
+
+
 ##  Bot Sistemi
 
 ### 1. 🎮 Komut Botu
@@ -122,7 +126,7 @@
 <img width="867" height="219" alt="guard güvenli liste" src="https://github.com/user-attachments/assets/d393023d-924d-45db-87ff-e70aa87e9a98" />
 <img width="1033" height="278" alt="guard genel" src="https://github.com/user-attachments/assets/704542fd-80ff-4886-ab8e-214cfd9a9dd4" />
 
-discord; @gabriel.btw
+
 
 ![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=GabrielSSQ&repo=discord-bot-web-v14&color=blue)
 
