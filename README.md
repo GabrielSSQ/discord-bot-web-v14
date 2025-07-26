@@ -123,3 +123,6 @@
 <img width="1033" height="278" alt="guard genel" src="https://github.com/user-attachments/assets/704542fd-80ff-4886-ab8e-214cfd9a9dd4" />
 
 discord; @gabriel.btw
+
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=GabrielSSQ&repo=discord-bot-web-v14&color=blue)
+
