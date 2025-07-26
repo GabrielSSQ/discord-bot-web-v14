@@ -1,3 +1,108 @@
+- 🎯 **6 Özelleşmiş Bot** - Her biri farklı görevler için optimize edilmiş
+- 🌐 **Web Yönetim Paneli** - Discord OAuth2 ile güvenli giriş
+- 🛡️ **Gelişmiş Güvenlik** - Guard sistemi ve URL koruması
+- 📊 **Detaylı İstatistikler** - Mesaj, ses ve davet takibi
+- 🎨 **Modern Arayüz** - Responsive ve kullanıcı dostu tasarım
+- ⚡ **Yüksek Performans** - Optimize edilmiş kod yapısı
+
+##  Bot Sistemi
+
+### 1. 🎮 Komut Botu
+**Ana yönetim botu** - Tüm moderasyon ve kayıt işlemleri
+
+#### 📋 Kayıt Sistemi
+- `.kayıt @kullanıcı` - Erkek/kadın kayıt sistemi
+- `.kayıtsız @kullanıcı [sebep]` - Kayıtsız duruma getirme
+- `.isimler [@kullanıcı]` - Kayıt geçmişi görüntüleme
+- `.kayıtbilgi [@kullanıcı]` - Son kayıt bilgileri
+- `.isim @kullanıcı yeni_isim` - İsim değiştirme
+
+#### ⚖️ Ceza Sistemi
+- `.ceza @kullanıcı [sebep]` - Kapsamlı ceza menüsü
+  - 🔨 Ban (kalıcı yasaklama)
+  - 👢 Kick (sunucudan atma)
+  - 🔇 Mute (susturma)
+  - 🔒 Jail (cezalı odası)
+- `.sicil [@kullanıcı]` - Ceza geçmişi görüntüleme
+
+#### 🎁 Davet Sistemi
+- `.invite` - Kişisel davet istatistikleri
+- `.invites @kullanıcı` - Kullanıcı davet bilgileri
+- `.bonus-invite @kullanıcı miktar` - Bonus davet ekleme
+- Otomatik davet takibi ve sıralama sistemi
+
+#### 🔧 Yönetim Komutları
+- `.setup` - Bot kurulum sihirbazı ( WebPanelden kurulumu yapılabilmektedir. )
+- `.say` - Sunucu istatistikleri
+- `.yetkiver @kullanıcı @rol` - Rol yönetimi - Yetkili başvuru sistemine entegre çalışmaktadır.
+- `.sil miktar` - Mesaj silme
+
+### 2. 📊 İstatistik Botu
+**Detaylı aktivite takibi** - Tüm kullanıcı aktivitelerini izler
+
+#### 📈 Takip Edilen Veriler
+- 💬 **Mesaj İstatistikleri** - Kanal bazında mesaj sayıları
+- 🎤 **Ses Kanalı Aktivitesi** - Toplam konuşma süresi
+- 📹 **Kamera/Ekran Paylaşımı/Mikrofon Takibi** - Detaylı ses durumu
+- 😴 **AFK Süre Takibi** - Aktif olmama süreleri
+- 🏆 **Aktivite Puanı** - Genel aktivite değerlendirmesi
+
+#### 📋 İstatistik Komutları
+- `.stats [@kullanıcı]` - Detaylı kullanıcı istatistikleri
+- Interaktif butonlar ile detaylı görünümler
+- Karşılaştırma ve sıralama özellikleri
+
+### 3. 🛡️ Guard Botu
+**Sunucu güvenlik sistemi** - Yetkisiz değişiklikleri engeller
+
+#### 🔒 Korunan Alanlar
+- 📺 **Kanal Koruması** - Kanal oluşturma/silme/düzenleme
+- 👥 **Rol Koruması** - Rol değişiklikleri ve yetki kontrolü
+- 😀 **Emoji/Sticker Koruması** - Sunucu özelleştirmeleri
+- 🔗 **Webhook Koruması** - Webhook oluşturma/silme
+- 👤 **Üye Rol Koruması** - Toplu rol değişiklikleri
+
+#### ⚡ Otomatik Cezalandırma
+- Şüpheli aktivitelerde otomatik müdahale
+- Configurable ceza seviyeleri
+- Bot muafiyeti sistemi
+
+### 4. 🔗 URL Koruma Botu
+**Sunucu URL güvenliği** - Davet linklerini korur
+
+- 🛡️ Sunucu davet URL'si değişikliklerini engeller
+- 🔄 Otomatik geri alma sistemi
+- 📝 Detaylı log sistemi
+
+### 5. 🎧 Destek Botu
+**Otomatik destek sistemi** - Kullanıcı yardım merkezi
+
+#### 🎯 Destek Özellikleri
+- 🎫 Otomatik sorun çözme sistemi
+- 🔊 Ses kanalı yönetimi
+- 📊 Destek istatistikleri
+- 😊 Memnuniyet anketi sistemi
+- 👥 Destek ekibi yönetimi
+
+### 6. 📝 Log Botu
+**Kapsamlı log sistemi** - Tüm sunucu aktivitelerini kaydeder
+
+- 📋 Mesaj logları (düzenleme/silme)
+- 👤 Üye logları (giriş/çıkış/güncelleme)
+- 🔧 Sunucu değişiklik logları
+- 🎤 Ses kanalı aktivite logları
+
+## 🌐 Web Yönetim Paneli
+
+### 🔐 Güvenli Giriş
+- Discord OAuth2 entegrasyonu
+- Otomatik yetki kontrolü
+- Sunucu bazında erişim yönetimi
+
+### Dashboard Özelliklerinin Tamamını Aşağıda ki Görsellerden İnceleyebilirsiniz
+
+
+
 <img width="909" height="795" alt="guard emoji" src="https://github.com/user-attachments/assets/ffd9fdbc-c343-49dd-ac77-fcdb47d23c6a" />
 <img width="1059" height="807" alt="git çek ayarları" src="https://github.com/user-attachments/assets/86568d3f-a961-4aac-bff8-78b5b47db827" />
 <img width="1322" height="831" alt="ceza sistemi ayarları" src="https://github.com/user-attachments/assets/90a15cc8-ebd2-497b-b9ba-0234e3b1cd0a" />
@@ -16,3 +121,5 @@
 <img width="1001" height="487" alt="guard kanal" src="https://github.com/user-attachments/assets/d1c9d901-a9e9-486d-bb16-95ad77db3546" />
 <img width="867" height="219" alt="guard güvenli liste" src="https://github.com/user-attachments/assets/d393023d-924d-45db-87ff-e70aa87e9a98" />
 <img width="1033" height="278" alt="guard genel" src="https://github.com/user-attachments/assets/704542fd-80ff-4886-ab8e-214cfd9a9dd4" />
+
+discord; @gabriel.btw
