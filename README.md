@@ -105,8 +105,8 @@ discord; gabriel.btw
 
 ### Dashboard Özelliklerinin Tamamını Aşağıda ki Görsellerden İnceleyebilirsiniz
 
-
-
+<img width="656" height="845" alt="stat sistem 1" src="https://github.com/user-attachments/assets/d7229b0a-347e-4f2e-be39-2c5011d5fee6" />
+<img width="672" height="720" alt="stat sistem 2" src="https://github.com/user-attachments/assets/da24393e-9ee6-497f-9b4e-2e049ee52759" />
 <img width="909" height="795" alt="guard emoji" src="https://github.com/user-attachments/assets/ffd9fdbc-c343-49dd-ac77-fcdb47d23c6a" />
 <img width="1059" height="807" alt="git çek ayarları" src="https://github.com/user-attachments/assets/86568d3f-a961-4aac-bff8-78b5b47db827" />
 <img width="1322" height="831" alt="ceza sistemi ayarları" src="https://github.com/user-attachments/assets/90a15cc8-ebd2-497b-b9ba-0234e3b1cd0a" />
